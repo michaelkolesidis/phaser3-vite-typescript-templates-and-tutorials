@@ -8,7 +8,7 @@ You'll need [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/) and
 
 It is highly recommended to use [Node Version Manager](https://github.com/nvm-sh/nvm) (nvm) to install Node.js and npm.
 
-If Yarn is not install, you can install it globally with:
+If Yarn is not installed, you can install it globally with:
 
 ```
 npm install -g yarn
