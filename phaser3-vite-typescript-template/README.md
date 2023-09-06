@@ -84,4 +84,6 @@ Based on the template provided by [Tommy Leung (supertommy)](https://github.com/
 
 ## License
 
+Copyright (c) 2023 Michael Kolesidis
+
 [MIT License](https://github.com/ourcade/phaser3-vite-template/blob/master/LICENSE)

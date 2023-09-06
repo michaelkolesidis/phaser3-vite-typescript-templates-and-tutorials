@@ -40,4 +40,6 @@ Production files will be placed in the `dist` folder. Then upload those files to
 
 ## License
 
+Copyright (c) 2023 Michael Kolesidis
+
 [MIT License](https://github.com/ourcade/phaser3-vite-template/blob/master/LICENSE)
