@@ -1,6 +1,7 @@
 {
-  "name": "phaser3-vite-typescript-template",
-  "private": false,
+  "name": "making-your-first-phaser3-game-vite-typescript",
+  "author": "Michael Kolesidis",
+  "license": "MIT",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
